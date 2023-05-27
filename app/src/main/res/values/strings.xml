@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PR-9 Ivanchikov</string>
+    <string name="MySmartDevise">Моё смарт-устройство</string>
+    <string name="distance">1,3 km</string>
+    <string name="kkal">59 kkal</string>
+    <string name="time">30 min</string>
+    <string name="steps">1583 steps</string>
+    <string name="kg">62 kg</string>
+    <string name="bmp">82 bmp</string>
+    <string name="line">МАРШРУТЫ</string>
+    <string name="info">КРАТКАЯ ИНФОРМАЦИЯ</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
